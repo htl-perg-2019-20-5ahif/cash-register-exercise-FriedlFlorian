@@ -1,0 +1,17 @@
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.exe
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.deps.json
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.runtimeconfig.json
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.runtimeconfig.dev.json
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.dll
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\bin\Debug\netcoreapp3.0\CashRegister.UICore.pdb
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore_MarkupCompile.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore_MarkupCompile.lref
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.g.resources
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.AssemblyInfo.cs
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.dll
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister.UICore\obj\Debug\netcoreapp3.0\CashRegister.UICore.pdb

@@ -1,0 +1,6 @@
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\CashRegister.WebApi.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\staticwebassets\CashRegister.WebApi.StaticWebAssets.Manifest.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\staticwebassets\CashRegister.WebApi.StaticWebAssets.xml
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\CashRegister.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\CashRegister.WebApi.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\POSE\C#\Hue\HUE04\cash-register-exercise-FriedlFlorian\CashRegister\CashRegister\obj\Debug\netcoreapp3.0\CashRegister.WebApi.AssemblyInfo.cs
